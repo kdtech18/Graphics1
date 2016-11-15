@@ -12,7 +12,7 @@ public class GraphicWithName
 	public static void main(String[] args)
 		{
 		JOptionPane.showMessageDialog(null, "Kenton Duprey","Name", JOptionPane.ERROR_MESSAGE);
-		
+		JOptionPane.showMessageDialog(null, "My Name", "Title of Box", JOptionPane.ERROR_MESSAGE);
 		
 		
 		}// end main method
