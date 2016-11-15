@@ -15,8 +15,6 @@ public class GraphicWithName
 		JFrame frame1 = new JFrame();
 		JPanel panel1 = new JPanel();
 		
-		
-		
 		}// end main method
 	
 	}
