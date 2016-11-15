@@ -2,7 +2,7 @@
    Kenton Duprey
    Java Graphics II G
    Mr. Blondin
-   11/15/2016
+   11/14/2016
 */
 
 import javax.swing.JOptionPane;
