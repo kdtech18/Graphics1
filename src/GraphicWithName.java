@@ -16,6 +16,7 @@ public class GraphicWithName
 		JPanel panel1 = new JPanel();
 		
 		
+		
 		}// end main method
 	
 	}
