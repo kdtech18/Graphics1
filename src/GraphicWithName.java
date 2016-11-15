@@ -5,15 +5,15 @@
    11/15/2016
 */
 
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 public class GraphicWithName
 	{
 	public static void main(String[] args)
 		{
+		JOptionPane.showMessageDialog(null, "Kenton Duprey","Name", JOptionPane.ERROR_MESSAGE);
 		
-		JFrame frame1 = new JFrame();
-		JPanel panel1 = new JPanel();
+		
 		
 		}// end main method
 	
